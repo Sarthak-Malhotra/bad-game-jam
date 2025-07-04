@@ -13,7 +13,7 @@ def main():
     # Set up the game window
     screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
     pygame.display.set_caption("Glitchmaze: Broken by Design")
-    print("olaa")
+
 
     # Start the main game object
     game = Game(screen)
