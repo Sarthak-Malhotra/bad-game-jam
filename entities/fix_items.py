@@ -1,5 +1,5 @@
 from pygame.math import Vector2
-
+import pygame
 
 class text:
     def __init__(self, image_path, pos):
